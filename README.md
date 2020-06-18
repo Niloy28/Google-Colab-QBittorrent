@@ -4,6 +4,7 @@ This is a Google Colab notebook with QBittorrent and Rclone.
 
 I took https://github.com/MinorMole/RcloneLab as a base and edited it to my likings.
 
+This uses ngrok.io to host the qBittorrent webUI. The ngrok server code is taken from https://medium.com/@martinetmayank/create-a-torrent-server-from-google-colab-8fac019bdce2
 
 <b>Features:</b>
 1. QBittorrent as web interface
